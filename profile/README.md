@@ -1,3 +1,5 @@
+<p align="center"><a href="https://www.cinch.live" target="_blank"><img src="https://raw.githubusercontent.com/cinch-project/.github/master/highres-name-web.png" width="400"></a></p>
+
 # Cinch
 Cinch is a database migration system, designed to be extendable and configurable while maintaining simplicity.
 Cinch's primary goal is to make database (schema) version management easy but powerful:
