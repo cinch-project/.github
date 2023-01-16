@@ -7,7 +7,7 @@ Cinch's primary goal is to make database (schema) version management easy but po
 * PostgreSQL, MySQL, MariaDB, SQL Server, Azure SQL Database, SQLite
 * Tested in Google Cloud Platform, AWS RDS, Azure, Amazon Aurora
 * Support for SQL and PHP migrations
-* Easy to configure or integrate into PHP applications
+* Easy to configure and integrate into PHP applications
 * 100% framework-agnostic
 * Store history in a database other than the target: any supported database
 * Source migrations directly from version control (as well as the Filesystem): GitHub, GitLab, Azure DevOps Services
