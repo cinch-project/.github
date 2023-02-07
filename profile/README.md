@@ -7,7 +7,7 @@ Cinch is in development. It is not ready for production.
 Cinch is a database migration system, designed to be extendable and configurable while maintaining simplicity.
 Cinch's primary goal is to make database (schema) version management easy but powerful:
 
-* PostgreSQL, MySQL, MariaDB, SQL Server, Azure SQL Database, SQLite
+* PostgreSQL, MySQL, MariaDB, Oracle, IBM Db2 for LUW, SQL Server, Azure SQL Database, SQLite
 * Tested in Google Cloud Platform, AWS RDS, Azure, Amazon Aurora
 * Support for SQL and PHP migrations
 * Easy to configure and integrate into PHP applications
